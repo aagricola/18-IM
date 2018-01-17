@@ -1,14 +1,14 @@
 //use the tool bar to bring up your color selector
 
 void setup(){
- size(300, 300); 
+ size(300, 300);
 }
 
 void draw(){
  background(#C12D48);
  //house
  fill(#9684C6);
- rect(50, 90, 100, 100); 
+ rect(50, 90, 100, 100);
  //roof
  fill(#6C6B6F);
  triangle(50, 90, 100, 10, 150, 90);
@@ -25,5 +25,5 @@ void draw(){
  arc(90, 180, 188, 108, 13, 14);
 }
 void mousePressed(){
- saveFrame("house-###.png"); 
+ saveFrame("house-###.png");
 }
