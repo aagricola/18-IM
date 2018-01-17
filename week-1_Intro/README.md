@@ -97,6 +97,8 @@ In this class, we are more concerned with Prototyping/Experimenting/Playing than
 
 ## Homework
 
- - There are a few optional recommended readings in this weeks resource folder, one from the book *Form & Code* by Casey Reas and Chandler McWilliams and one from *Wabi-Sabi for Artists, Designers, Poets & Philosophers*
- - Required is the pdf on Creative Process Journals
+ - There is an optional reading in this weeks resource folder, from the book *Form & Code* by Casey Reas and Chandler McWilliams
+ - Also check out this [Brief Rant on the Future of Interaction Design](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/)
+ - Required reading is the pdf on Creative Process Journals - this is to help you better understand the objectives in keeping one.
  - Finish your Partner Portrait. We will look at them at the beginning of our next class.
+ - Try incorporating a curve into your drawing - [here is a tutorial](https://processing.org/tutorials/curves/)
