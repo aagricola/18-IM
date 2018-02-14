@@ -42,3 +42,5 @@ For homework this week, read the short essays from Madeline Schwartzman's latest
 
 In case we don't get to it, here is a video by Daniel Shiffman on Motion Tracking, where the motion tracking example in our folder actually comes from.
 [video tutorial](https://www.youtube.com/watch?v=QLHMtE5XsMs&index=6&list=PLRqwX-V7Uu6bw0bVn4M63p8TMJf3OhGy8)
+
+Here is a very helpful essay on [Computer Vision for Artists and Designers, Essay by Golan Levin](http://www.flong.com/texts/essays/essay_cvad/)
