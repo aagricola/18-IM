@@ -1,4 +1,4 @@
-# Hola!
+# Hello!
 
 ## Today:
 
@@ -7,7 +7,7 @@
 - Work time
 
 ## Body in Space
-[Myron Krueger - "Videoplace", Responsive Environment, 1972-1990s] (https://www.youtube.com/watch?v=dmmxVA5xhuo)
+[Myron Krueger - "Videoplace", Responsive Environment, 1972-1990s](https://www.youtube.com/watch?v=dmmxVA5xhuo)
 
 [David Rokeby - "Very Nervous System", Interactive Environment 1986](https://www.youtube.com/watch?v=FsR7EQgG7N0)
 
