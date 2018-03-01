@@ -12,6 +12,8 @@ Taeyoon Choi is an artist, educator, and activist based in New York and Seoul. H
 
 ## Homework
 
+ - Please submit your Project documentation to canvas!
+
  - [Order Arduino kit](https://www.amazon.com/Elegoo-EL-KIT-004-Project-Starter-Tutorial/dp/B01DGD2GAO/ref=sr_1_7?ie=UTF8&qid=1519253487&sr=8-7&keywords=arduino+kit)
 
  - Start your CPJ as we discussed in the first class. This is where you will keep track of your progress towards a final project, from ideation and research, to prototypes, failures, and successes. In my experience, it works best as a blog (separate from your portfolio site).
