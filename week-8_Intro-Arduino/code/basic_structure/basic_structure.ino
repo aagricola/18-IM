@@ -12,7 +12,7 @@ void setup(){
 // This function continues to run (looping from top to bottom) as long as the Arduino is powered
 void loop(){
 	// This is where the bulk of the interesting code will go
-	digitalWrite(13, HIGH); 
+	digitalWrite(13, HIGH);
 
 	// Restart loop()
 }
