@@ -36,8 +36,6 @@ First think about what properties and methods your object will have.
 related data elements. For your methods, select clear names to help yourself stay organized.
 Remember, the methods are used to change the values of the properties and to perform actions based on the properties’ values.
 
-[Getting Started with p5.js](http://people.uncw.edu/tompkinsj/112/JavaScript/GettingStartedwithP5js.pdf) has an entire chapter on objects that is very useful to read through and it's where the above information is sourced from!
-
 ## Arduino
 
 [Arduino Documentary](https://vimeo.com/18539129)
@@ -64,7 +62,7 @@ The final project will be lead by your own personal interests and desires, utili
 - Bring your arduino kit with you the week after Spring Break
 - Submit a link to your CPJ on canvas. Keep researching and exploring inspiration for your final project (ref. to last week's post if this statement confuses you)
 
-Side reading (not required): [Essay by Jeremy Bailey "IMG MGMT: Pinch to Zoom"](http://artfcity.com/2016/05/24/img-mgmt-pinch-to-zoom/) About beating big tech companies at their own game ;) 
+Side reading (not required): [Essay by Jeremy Bailey "IMG MGMT: Pinch to Zoom"](http://artfcity.com/2016/05/24/img-mgmt-pinch-to-zoom/) About beating big tech companies at their own game ;)
 
 ## Resources
 
