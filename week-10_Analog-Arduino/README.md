@@ -57,7 +57,6 @@ full video [here](https://www.youtube.com/watch?v=MC8qxaLG-n4)
 - Finish Assignments
 - If you have not already, submit CPJ link on canvas
 - Be ready to tell me what you are thinking about for your final project next week
-- Sign up for studio visit or one-on-one meeting in the classroom [Here is the link to sign up](https://docs.google.com/spreadsheets/d/1KeVIo481UTgfeNius0EuRNPB6uGh0IQJC4guDjfdMg4/edit?usp=sharing)
 - Reading - "Thinking of Yourself as a Machine" by Sherry Turkle
 
 ## Resources
