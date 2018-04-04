@@ -80,7 +80,7 @@ Please make a **5 minute** presentation including slides about:
 
 ## Homework
 
-- Sign up for one-on-one meeting
+- [Sign up for one-on-one meeting](https://docs.google.com/spreadsheets/d/1KeVIo481UTgfeNius0EuRNPB6uGh0IQJC4guDjfdMg4/edit?usp=sharing)
 - Work on final Project
 - submit your CPJ link to canvas
 
