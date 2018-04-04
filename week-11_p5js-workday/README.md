@@ -78,6 +78,10 @@ Please make a **5 minute** presentation including slides about:
 - Documentation or live demonstration of prototype
 - Mock-up or rendering of projected finished product
 
+## Soldering
+
+[Soldering Instructions](https://docs.google.com/presentation/d/10bPH_nBrClyt_rEKhuCHWSxKT2OhPTUtUOzh2Y-Bc6E/edit#slide=id.g17b6575d33_0_12)
+
 ## Homework
 
 - [Sign up for one-on-one meeting](https://docs.google.com/spreadsheets/d/1KeVIo481UTgfeNius0EuRNPB6uGh0IQJC4guDjfdMg4/edit?usp=sharing)
