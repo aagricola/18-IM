@@ -1,0 +1,43 @@
+P5.JS
+
+Main Differences :
+- Because you can think of your sketch as more than just the drawing canvas, size() has been replaced with createCanvas(), to suggest the possibility of creating other elements.
+- use var in front of every new variable instead of primitive data types like int, float, char ect. - this is common to Java Script
+- A var can be anything -- any of the types mentioned, but also functions
+- createCanvas()  replaces  size()
+- you can place load calls in a preload() method that happens before setup() (this means setup waits until everything inside is loaded)
+- function is used instead of void before any function
+function setup() {
+createCanvas(640,480)
+}
+
+function draw() {
+  if (mouseIsPressed){
+  	fill(0);
+  }else{
+  	fill(255);
+  }
+  ellipse(mouseX, mouseY, 80, 80);
+}
+
+-in addition to mouse events, there are touch events
+mouseX ~ touchX
+mouseY ~ touchY
+mousePressed() ~ touchStarted()
+mouseDragged() ~ touchMoved()
+mouseReleased() ~ touchEnded()
+- there is also a touches[ ] array that contains a series of objects with x and y properties corresponding to the position of each finger.
+- push/popMatrix and push/popStyle has been replaces with just push() and pop()
+- global and instance mode :https://github.com/lmccart/itp-creative-js/wiki/Spring-2014:-Week-5#global-and-instance-mode
+instance mode plays nice with the rest of the code running on your page
+- when declaring variables before setup(), you will need to assign them values inside setup()
+var n;
+function setup() {
+  createCanvas(100, 100);
+  n = random(100);
+}
+- arrays are more simple in P5
+see example https://p5js.org/examples/arrays-array.html
+
+-these notes taken from Processing to P5.JS transition
+https://github.com/processing/p5.js/wiki/Processing-transition
